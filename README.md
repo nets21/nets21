@@ -2,7 +2,7 @@
 - 👀 I’m interested in music on linux
 - 🌱 web multimedia
 - 💞️ my web
-- 📫 vorphkt0i@relay.firefox.com
+- 📫 nets192_arobase@protonmail.com
 
 <!---
 nets21/nets21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
